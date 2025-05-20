@@ -38,7 +38,7 @@ To run the experiment, please run *setting*_optimized.py, replace *setting* with
 
 To execute the *Gray-box AgrEvader* experiment, please input the following command under the source code path
 
-```python greybox_optimized.py```
+```python graybox_optimized.py```
 
 ### 3. Save the experiment results
 After the experiment is finished, the experiment results will be saved in the directory defined in __constants.py__ . The experiment results include the AgrEvader attack log, the global model and local models log, and the FL training log.
